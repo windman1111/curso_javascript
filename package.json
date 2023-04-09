@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio01",
+  "version": "1.0.0",
+  "description": "Primer ejercicio curso de javascript en bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node ejercicio01.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrés Alonso",
+  "license": "ISC"
+}
